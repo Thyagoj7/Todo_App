@@ -1,6 +1,6 @@
 <h1>TodoAppfpm</h1>
 
-Este é um projeto Java TodoApp simples criado usando o NetBeans IDE. O aplicativo permite que os usuários gerenciem suas tarefas diárias e acompanhem sua lista de tarefas. O projeto é escrito em Java e segue uma estrutura básica para ajudar os iniciantes a começar com o desenvolvimento Java.
+<p>Este é um projeto Java TodoApp simples criado usando o NetBeans IDE. O aplicativo permite que os usuários gerenciem suas tarefas diárias e acompanhem sua lista de tarefas. O projeto é escrito em Java e segue uma estrutura básica para ajudar os iniciantes a começar com o desenvolvimento Java.</p>
 
 <h2>Primeiros passos</h2>
 
